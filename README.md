@@ -1,3 +1,5 @@
+> **Ovia Inc fork** — We maintain this fork of [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev), which turns any LLM into a Jev-style decision model: typed decisions and real probabilities, with no training. We evaluate it for routing and gating inside agent workflows. Upstream credit: Nokia Applied Research. License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
 <div align="center">
 
 <img src="assets/banner.png" width="100%" alt="AnyJev — turn any LLM into a Jev-style decision model. Typed decisions, real probabilities, no fine-tuning. Order-flip rate 0.230 to 0.073 with zero labels; calibration error 0.240 to 0.095 and auto-decidable at 5% risk 7.7% to 52.0% with 100 to 500 labels.">
